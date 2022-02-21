@@ -27,5 +27,5 @@ int main()
     if(first>last)
         cout<<"\nThe number is not found in given Array"<<endl;
     return 0;
-}
+} 
  
