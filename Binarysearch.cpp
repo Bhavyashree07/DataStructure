@@ -28,4 +28,4 @@ int main()
         cout<<"\nThe number is not found in given Array"<<endl;
     return 0;
 } 
- 
+
